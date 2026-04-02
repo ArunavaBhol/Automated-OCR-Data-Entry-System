@@ -9,7 +9,7 @@ import pandas as pd
 
 # Step 3: Define file paths
 blank_form_path = "/content/form-1.png"        # path to blank form
-filled_form_path = "/content/handwritten-1.png"  # path to filled handwritten form
+filled_form_path = "assets/sample_input.jpeg"  # path to filled handwritten form
 output_excel_path = "/content/final_form_data.xlsx"
 
 # Step 4: Load both images
