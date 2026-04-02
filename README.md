@@ -22,7 +22,7 @@ Manual data entry from documents is time-consuming and error-prone. This system 
 ## 📸 Demo
 
 ### Input Image
-![Input](assets/OCR sample_input.jpeg)
+![Input](assets/sample_input.jpeg)
 
 ### Output Excel
 ![Output](assets/sample_output.png)
