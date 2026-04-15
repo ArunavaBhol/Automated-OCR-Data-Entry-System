@@ -25,7 +25,7 @@ Manual data entry from documents is time-consuming and error-prone. This system 
 ![Input](assets/sample_input.jpeg)
 
 ### Output Excel
-![Output](assets/sample_output.png)
+![Output](assets/final_form_data(2).pdf)
 
 ## ✨ Features
 - Automated text extraction
