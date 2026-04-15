@@ -37,3 +37,5 @@ Manual data entry from documents is time-consuming and error-prone. This system 
 
 ```bash
 pip install -r requirements.txt
+python main.py
+```
