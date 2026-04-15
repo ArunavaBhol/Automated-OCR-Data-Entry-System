@@ -24,8 +24,8 @@ Manual data entry from documents is time-consuming and error-prone. This system 
 ### Input Image
 ![Input](assets/sample_input.jpeg)
 
-### Output Excel
-![Output](https://github.com/ArunavaBhol/Automated-OCR-Data-Entry-System/blob/main/assets/final_form_data%20(2).pdf)
+### Output Excel Image
+![Output](https://github.com/ArunavaBhol/Automated-OCR-Data-Entry-System/blob/main/assets/excell_sheet_screenshot.png)
 
 ## ✨ Features
 - Automated text extraction
